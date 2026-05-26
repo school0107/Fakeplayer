@@ -1,0 +1,9 @@
+# Cấu hình thông báo (Hỗ trợ MiniMessage của Adventure)
+# Hướng dẫn màu: <green>Chữ xanh</green>, <red>Đỏ</red>, <bold>Đậm</bold>
+messages:
+  join: "<yellow>%player% đã tham gia trò chơi</yellow>"
+  quit: "<yellow>%player% đã rời trò chơi</yellow>"
+  prefix: "<gray>[NPC]</gray> "
+
+# Danh sách fake player đang hoạt động (lưu khi reload/restart nếu cần)
+fake-players: []
